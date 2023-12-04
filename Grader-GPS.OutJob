@@ -2,9 +2,9 @@
 Version=1.0
 
 [PublishSettings]
-OutputFilePath2=D:\Bayu\PCB\Project\Grader-GPS\.PDF
+OutputFilePath2=D:\Kerja\altium\Project\Grader-GPS\.PDF
 ReleaseManaged2=0
-OutputBasePath2=D:\Bayu\PCB\Project\Grader-GPS\
+OutputBasePath2=D:\Kerja\altium\Project\Grader-GPS\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -81,7 +81,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=D:\Bayu\PCB\Project\Grader-GPS\.PDF
+RelativeOutputPath2=D:\Kerja\altium\Project\Grader-GPS\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
