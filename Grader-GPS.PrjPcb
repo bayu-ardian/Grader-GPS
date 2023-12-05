@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HUKJXHEI
 
 [Document3]
-DocumentPath=..\..\library\Library Loader\Library_Altium\pcb\bayu.PcbLib
+DocumentPath=Layout_GraderGPS.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -86,10 +86,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PULTOWTV
 
 [Document4]
-DocumentPath=..\..\library\Library Loader\Library_Altium\pcb\bayu-new.PcbLib
+DocumentPath=..\..\library\Library Loader\skematik\bayu.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -106,7 +106,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=..\..\library\Library Loader\Library_Altium\pcb\PBL - SMD Packages.PcbLib
+DocumentPath=..\..\library\Library Loader\skematik\rapp.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -123,7 +123,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document6]
-DocumentPath=..\..\library\Library Loader\Library_Altium\pcb\PBL - THD Packages.PcbLib
+DocumentPath=..\..\library\Library Loader\skematik\Sigit.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140,7 +140,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7]
-DocumentPath=..\..\library\Library Loader\Library_Altium\pcb\rapp.PcbLib
+DocumentPath=..\..\library\Library Loader\pcb\bayu.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -157,7 +157,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8]
-DocumentPath=..\..\library\Library Loader\Library_Altium\pcb\SamacSys.PcbLib
+DocumentPath=..\..\library\Library Loader\pcb\bayu-new.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -174,7 +174,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document9]
-DocumentPath=..\..\library\Library Loader\Library_Altium\pcb\Sigit.PcbLib
+DocumentPath=..\..\library\Library Loader\pcb\PBL - SMD Packages.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -191,7 +191,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document10]
-DocumentPath=..\..\library\Library Loader\Library_Altium\skematik\bayu.SchLib
+DocumentPath=..\..\library\Library Loader\pcb\PBL - THD Packages.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -208,7 +208,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document11]
-DocumentPath=..\..\library\Library Loader\Library_Altium\skematik\rapp.SchLib
+DocumentPath=..\..\library\Library Loader\pcb\rapp.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -225,7 +225,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document12]
-DocumentPath=..\..\library\Library Loader\Library_Altium\skematik\Sigit.SchLib
+DocumentPath=..\..\library\Library Loader\pcb\SamacSys.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -242,7 +242,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document13]
-DocumentPath=Layout_GraderGPS.PcbDoc
+DocumentPath=..\..\library\Library Loader\pcb\Sigit.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -256,7 +256,11 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PULTOWTV
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Grader-GPS\Design Rule Check - Layout_GraderGPS.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
